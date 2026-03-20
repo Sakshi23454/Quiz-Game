@@ -1,5 +1,5 @@
 📌 Project Description :- 
----
+
 An interactive Quiz Game Website. This project allows users to test their knowledge through multiple-choice questions in a fun and engaging way. The application dynamically displays questions, tracks the user’s score, and provides instant feedback on selected answers. It features a clean user interface, smooth transitions, and responsive design.
 ---
 🛠️ Technologies Used :
